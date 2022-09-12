@@ -1,0 +1,18 @@
+.services{
+    background-color: #E7DFD8;
+    display: flex;
+    flex-direction: column;
+   
+    >h2{
+        font-size: 60px;
+        font-weight: 500;
+        margin-top: 50px;
+    }
+    .card-section{
+        display: flex;
+        margin: 1px auto;
+        flex-grow: 1;
+        flex-wrap: wrap;
+        gap: 50px;
+    }
+}

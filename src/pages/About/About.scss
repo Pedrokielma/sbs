@@ -1,0 +1,33 @@
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    width: 100vw;
+    background-color: #E7DFD8;
+
+    .about-content{
+        max-width: 750px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+        .about-logo{
+            
+            height: 60px;
+            width: 60px;
+        }
+        .title-about{
+
+            font-weight: 500;
+            font-size: 60px;
+        }
+        .about-content{
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 30px;
+        }
+    }
+    
+
+}
