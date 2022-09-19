@@ -12,7 +12,7 @@ function Homepage() {
     <div className="home-page">
     <div className="home-content">
     <img src={logo} alt="logo" className="logo" />
-    <h1 className="title">Pedrois</h1>
+    <h1 className="title">Optmizing Your Business Starts Here</h1>
     <p></p>
     <div className="home-btn">
     <Button content='Find Out More' />
